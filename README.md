@@ -1,2 +1,2 @@
-# WeatherForecast
- An app to view current location weather with 6 additional location
+# Weather Outlook
+ An application that displays the weather with the user's location
